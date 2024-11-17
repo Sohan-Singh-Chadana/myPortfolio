@@ -20,6 +20,12 @@ const works = [
     tags: ["Development", "API"],
     projectLink: "https://myecommerceproject-1.netlify.app/",
   },
+  {
+    imgSrc: "/images/project-4.png",
+    title: "Electronics  eCommerce",
+    tags: ["Development", "API", "Responsive"],
+    projectLink: "https://jsecome.netlify.app",
+  },
   // {
   //   imgSrc: "/images/project-4.jpg",
   //   title: "Real state website",

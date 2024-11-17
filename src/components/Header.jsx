@@ -10,8 +10,8 @@ const Header = () => {
 
   return (
     <header
-      className="fixed top-0 left-0 w-full h-20 flex items-center border-b border-zinc-600 bg-white dark:bg-zinc-900 dark:border-zinc-400 z-40 dark:bg-gradient-to-b dark:from-zinc-900 dark:to-zinc-900/0 
-     "
+      className="fixed top-0 left-0 w-full h-20 flex items-center border-b border-zinc-600 dark:border-none bg-white dark:bg-[#1939446e] dark:border-zinc-400 z-40 dark:bg-gradient-to-b dark:from-zinc-900 dark:to-zinc-900/0 
+    "
     >
       <div className="max-w-screen-2xl w-full mx-auto px-4 flex justify-between items-center md:px-6 md:grid md:grid-cols-[1fr,3fr] lg:grid-cols-[1fr,2fr]">
         <h1>
