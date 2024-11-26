@@ -24,14 +24,14 @@ const works = [
     imgSrc: "/images/project-4.png",
     title: "Electronics  eCommerce",
     tags: ["Development", "API", "Responsive"],
-    projectLink: "https://jsecome.netlify.app",
+    projectLink: "https://github.com/Sohan-Singh-Chadana/JSeCommer",
   },
-  // {
-  //   imgSrc: "/images/project-4.jpg",
-  //   title: "Real state website",
-  //   tags: ["Web-design", "Development"],
-  //   projectLink: "https://github.com/codewithsadee-org/wealthome",
-  // },
+  {
+    imgSrc: "/images/project-5.png",
+    title: "Flavoro foods eCommerce ",
+    tags: ["Redux", "Development", "Web-Design"],
+    projectLink: "https://github.com/Sohan-Singh-Chadana/Flavoro-Foods",
+  },
   // {
   //   imgSrc: "/images/project-5.jpg",
   //   title: "eCommerce website",
