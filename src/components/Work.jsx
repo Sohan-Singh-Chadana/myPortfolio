@@ -28,16 +28,16 @@ const works = [
   },
   {
     imgSrc: "/images/project-5.png",
-    title: "Flavoro foods eCommerce ",
+    title: "Flavoro-Foods-eCommerce",
     tags: ["Redux", "Development", "Web-Design"],
     projectLink: "https://github.com/Sohan-Singh-Chadana/Flavoro-Foods",
   },
-  // {
-  //   imgSrc: "/images/project-5.jpg",
-  //   title: "eCommerce website",
-  //   tags: ["eCommerce", "Development"],
-  //   projectLink: "https://github.com/codewithsadee/anon-ecommerce-website",
-  // },
+  {
+    imgSrc: "/images/project-6.png",
+    title: "Edamam-Recipe-App",
+    tags: ["Recipe App", "Development", "React", "Redux-Toolkit"],
+    projectLink: "https://github.com/Sohan-Singh-Chadana/Edamam-Recipe-App",
+  },
   // {
   //   imgSrc: "/images/project-6.jpg",
   //   title: "vCard Personal portfolio",
